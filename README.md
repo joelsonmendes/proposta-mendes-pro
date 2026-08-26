@@ -65,8 +65,10 @@ Nenhuma chave externa é obrigatória. Opcionalmente, crie a variável `NEXT_PUB
 
 ## Instalar no smartphone
 
-- Android/Chrome: abra o endereço HTTPS e escolha **Instalar aplicativo** ou **Adicionar à tela inicial**.
+- Na barra inferior do aplicativo, toque em **Instalar**.
+- Android/Chrome: confirme **Instalar aplicativo**; se o aviso não aparecer, abra o menu ⋮ e escolha **Adicionar à tela inicial**.
 - iPhone/Safari: toque em **Compartilhar** e depois em **Adicionar à Tela de Início**.
+- Se o link abriu dentro do WhatsApp ou Instagram, use o menu para abri-lo primeiro no Chrome ou Safari.
 
 O reconhecimento de voz requer HTTPS, permissão para usar o microfone e um navegador compatível. O aplicativo continua permitindo preenchimento normal pelo teclado quando a voz não estiver disponível.
 
