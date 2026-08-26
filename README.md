@@ -22,7 +22,7 @@ Aplicativo PWA para criar propostas comerciais profissionais pelo smartphone ou 
 
 ## Executar no computador
 
-Requisitos: Node.js 20.9 ou superior e npm.
+Requisitos: Node.js 22 e npm.
 
 ```bash
 npm install

@@ -4,11 +4,11 @@
   "private": true,
   "description": "Gerador PWA de propostas comerciais com voz, assinatura e identidade visual automática.",
   "engines": {
-    "node": ">=20.9.0"
+    "node": "22.x"
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build --webpack",
     "start": "next start",
     "lint": "eslint ."
   },
