@@ -1649,6 +1649,7 @@ export default function Home() {
           }, 120);
         }}><span>🎙</span>Voz</button>
         <button className={mobileView === "preview" ? "active" : ""} onClick={() => setMobileView("preview")}><span>▤</span>Visualizar</button>
+        <button onClick={installApp}><span>⌂</span>Instalar</button>
         <button onClick={printProposal}><span>⇩</span>PDF</button>
       </nav>
 
@@ -1662,6 +1663,7 @@ export default function Home() {
             <div className="install-steps">
               <div><strong>Android · Chrome</strong><p>Abra o menu ⋮ e toque em <b>Adicionar à tela inicial</b> ou <b>Instalar aplicativo</b>.</p></div>
               <div><strong>iPhone · Safari</strong><p>Toque em Compartilhar e depois em <b>Adicionar à Tela de Início</b>.</p></div>
+              <div><strong>WhatsApp ou Instagram</strong><p>Se o endereço abriu dentro de outro aplicativo, use o menu e escolha <b>Abrir no Chrome</b> ou <b>Abrir no Safari</b>.</p></div>
             </div>
             <button className="primary-button" onClick={() => setShowInstallHelp(false)}>Entendi</button>
           </div>
