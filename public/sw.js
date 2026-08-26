@@ -1,4 +1,4 @@
-const CACHE_NAME = "proposta-mendes-pro-v1";
+const CACHE_NAME = "proposta-mendes-pro-v2";
 const ESSENTIALS = [
   "/",
   "/manifest.webmanifest",

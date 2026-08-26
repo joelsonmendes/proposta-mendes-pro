@@ -1,6 +1,7 @@
 {
   "name": "Proposta Mendes Pro",
   "short_name": "Proposta Mendes",
+  "id": "/",
   "description": "Gerador profissional de propostas comerciais de Joelson Mendes.",
   "lang": "pt-BR",
   "start_url": "/",
